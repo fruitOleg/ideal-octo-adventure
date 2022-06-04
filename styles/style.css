@@ -1,0 +1,185 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+
+  background-color: #f5f7fa;
+}
+
+.projects-and-experience {
+  background-color: #fff;
+  color: #595959;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  padding-right: 0;
+}
+
+.orange {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 26.82px;
+  color: black;
+}
+
+h4 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
+.bold {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.about-me-profession {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: black;
+  margin-bottom: 19px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 54.86px;
+  color: black;
+  margin-bottom: 25px;
+}
+.about-me-description {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.main-container-section {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #fff;
+  margin: 40px auto;
+}
+
+.main-content-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.about-me-section {
+  margin-top: 102px;
+  margin-left: 88px;
+  margin-right: 342px;
+  margin-bottom: 51px;
+}
+
+.my-projects-section {
+  margin-left: 88px;
+  margin-right: 257px;
+  margin-bottom: 51px;
+}
+
+.my-work-experience-section {
+  margin-left: 88px;
+  margin-right: 217px;
+  margin-bottom: 51px;
+}
+
+.my-education-section {
+  margin-left: 88px;
+  margin-right: 415px;
+  margin-bottom: 41px;
+}
+
+/* sidebar section */
+.sidebar-section {
+  background-color: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+}
+
+.sidebar-h3 {
+  color: #fff;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 26.82px;
+  margin-bottom: 8px;
+}
+
+/* contacts section */
+.contacts-block {
+  margin-left: 40px;
+  margin-top: 51px;
+}
+
+.link-type {
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 24px;
+  margin-right: 7px;
+}
+
+.links {
+  color: #fff;
+  opacity: 0.5;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+/* tech skills section  */
+.tech-skills-block {
+  margin-left: 40px;
+  margin-top: 47px;
+}
+
+.t-skills-menu {
+  padding-left: 18px;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.t-skills-bullet {
+  color: #fb6d3a;
+}
+
+.t-skills-text {
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+/* soft skills section */
+.soft-skills-block {
+  margin-left: 40px;
+  margin-top: 44px;
+}
+
+.s-skills-menu {
+  padding-left: 18px;
+}
+
+.s-skills-bullet {
+  color: #fb6d3a;
+}
+
+.s-skills-text {
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
