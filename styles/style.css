@@ -1,7 +1,7 @@
 body {
-  font-family: 'Montserrat', sans-serif;
-
-  background-color: #f5f7fa;
+   font-family: 'Montserrat', sans-serif;
+   background-color: #f5f7fa;
+   background-image: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX10937038.jpg);
 }
 
 .projects-and-experience {
@@ -62,7 +62,7 @@ h1 {
 .about-me-description {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   color: #595959;
 }
@@ -71,6 +71,7 @@ h1 {
   display: flex;
   flex-direction: row-reverse;
   width: 1200px;
+   background-image: url(https://i.pinimg.com/736x/8b/be/35/8bbe35dd908bd5ab68f888569b401c47.jpg);
   background-color: #fff;
   margin: 40px auto;
 }
@@ -107,7 +108,7 @@ h1 {
 
 /* sidebar section */
 .sidebar-section {
-  background-color: #1e2939;
+  background-color: #26863e;
   width: 370px;
   padding-top: 40px;
 }
@@ -142,6 +143,7 @@ h1 {
 }
 
 /* tech skills section  */
+
 .tech-skills-block {
   margin-left: 40px;
   margin-top: 47px;
@@ -155,7 +157,7 @@ h1 {
 }
 
 .t-skills-bullet {
-  color: #fb6d3a;
+  color: #494949;
 }
 
 .t-skills-text {
@@ -175,7 +177,7 @@ h1 {
 }
 
 .s-skills-bullet {
-  color: #fb6d3a;
+  color: #494949;
 }
 
 .s-skills-text {
